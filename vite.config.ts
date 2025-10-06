@@ -3,7 +3,8 @@ import react from '@vitejs/plugin-react'
 import path from 'path'
 
 export default defineConfig({
-  base: '/myportfolio/',
+  // Use root on Vercel, GH Pages subpath when not on Vercel
+  base: process.env.VERCEL ? '/' : '/myportfolio/',
   plugins: [react()],
   resolve: {
     alias: {
