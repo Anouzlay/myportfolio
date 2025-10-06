@@ -48,18 +48,7 @@ const SkillsAndStrengths: React.FC<SkillsAndStrengthsProps> = ({ skills }) => {
     return index;
   };
 
-  const getSkillLevel = (skill: string) => {
-    // Simple skill level assignment based on common patterns
-    const expertSkills = ['Python', 'JavaScript', 'React', 'Node.js', 'SQL', 'Git'];
-    const intermediateSkills = ['TypeScript', 'Vue.js', 'MongoDB', 'Docker', 'AWS'];
-    
-    if (expertSkills.some(expert => skill.toLowerCase().includes(expert.toLowerCase()))) {
-      return 90;
-    } else if (intermediateSkills.some(intermediate => skill.toLowerCase().includes(intermediate.toLowerCase()))) {
-      return 75;
-    }
-    return 65;
-  };
+  // Removed unused getSkillLevel helper to satisfy strict TypeScript builds
 
   return (
     <section id="skills" className="section skills">

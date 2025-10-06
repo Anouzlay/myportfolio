@@ -1,4 +1,4 @@
-import React from 'react';
+// React import not required in Vite + TSX with automatic JSX runtime
 
 export default function SignatureBadge({
   fixed = true,
