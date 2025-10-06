@@ -1,0 +1,380 @@
+{
+  "profile": {
+    "name": "Anouzla Yassine",
+    "title": "Data Scientist & AI Engineer",
+    "location": "Marrakech, Morocco",
+    "email": "anouzlay@gmail.com",
+    "phone": "0616996284",
+    "summary": "I am a Data Scientist and AI Engineer passionate about transforming data into intelligent, actionable systems. With a strong background in statistics, business intelligence, and software engineering, I design and implement AI-driven applications, multi-agent architectures, and automated analytics pipelines that bridge research and industry. My expertise spans machine learning, NLP, computer vision, and data engineering, with proven success in developing solutions such as semantic plagiarism detection, real-time video analysis, smart AR interfaces, and forecasting models. Combining creativity with precision, I help organizations leverage AI to automate decision-making, uncover insights, and optimize performance across industrial, educational, and enterprise domains.",
+    "cta": "Let’s build something impactful together!"
+  },
+  "education": [
+    {
+      "institution": "Faculty of Sciences Semlalia (Marrakech)",
+      "program": "Specialized Master's Degree in Data Sciences (DS)",
+      "start_date": "2023-09",
+      "end_date": "2025-09"
+    },
+    {
+      "institution": "Higher School of Technology (Laayoune)",
+      "program": "Bachelor’s Degree in Statistics & Business Intelligence",
+      "start_date": "2022-10",
+      "end_date": "2023-06"
+    },
+    {
+      "institution": "Higher School of Technology (Guelmim)",
+      "program": "Associate’s Degree in Computer Science",
+      "start_date": "2018-09",
+      "end_date": "2020-06"
+    },
+    {
+      "institution": "Al Khawarizmi High School (Guelmim)",
+      "program": "Baccalaureate in Experimental Sciences",
+      "start_date": "2017-09",
+      "end_date": "2018-08"
+    }
+  ],
+  "experience": [
+    {
+      "organization": "AICrafters",
+      "role": "Data Scientist & AI Engineer",
+      "employment_type": "Full-time (after internship)",
+      "start_date": "2025-02-17",
+      "end_date": null,
+      "timeline_detail": {
+        "internship_period": {
+          "start": "2025-02-17",
+          "end": "2025-10-01",
+          "description": "7-month internship focused on applied AI systems, automation pipelines, and LLM-based applications."
+        },
+        "full_time_start": "2025-10-01"
+      },
+      "location": "Morocco",
+      "highlights": [
+        "Transitioned from a 7-month internship to a full-time Data Scientist & AI Engineer position.",
+        "Developed multi-agent automation systems and intelligent assistants for lifecycle orchestration.",
+        "Built data-driven solutions in Generative AI, deep learning, NLP, and analytics.",
+        "Integrated LLMs, computer vision pipelines, and reinforcement learning agents in enterprise projects.",
+        "Designed automation workflows using CrewAI, LangChain, Zapier, and n8n."
+      ],
+      "technologies": [
+        "Python",
+        "Django",
+        "CrewAI",
+        "LangChain",
+        "Zapier",
+        "n8n",
+        "OpenAI",
+        "Pandas",
+        "Scikit-learn"
+      ]
+    },
+    {
+      "organization": "High Commission for Planning — Laayoune Regional Directorate",
+      "role": "Statistician, Technical Service & Statistics Office",
+      "start_date": "2023-04",
+      "end_date": "2023-06",
+      "location": "Laayoune, Morocco",
+      "highlights": [
+        "Conducted statistical data analysis and visualization for regional development indicators.",
+        "Performed data cleaning and technical reporting using Python and Excel."
+      ]
+    },
+    {
+      "organization": "Marjane Holding — Guelmim Oued Noun",
+      "role": "IT Agent (Technical/IT Department)",
+      "start_date": "2021-06",
+      "end_date": "2021-07",
+      "location": "Guelmim, Morocco",
+      "highlights": [
+        "Provided IT technical support and maintained system reliability for retail operations.",
+        "Collaborated with the technical team to ensure smooth IT infrastructure performance."
+      ]
+    },
+    {
+      "organization": "End-of-Study Internship",
+      "role": "Web Developer",
+      "start_date": "2020-01",
+      "end_date": "2020-06",
+      "highlights": ["Created a carpooling website with user management and booking features."]
+    },
+    {
+      "organization": "ONEE — Water Directorate (IT Department)",
+      "role": "Introductory Intern",
+      "start_date": "2019-07",
+      "end_date": "2019-08",
+      "location": "Guelmim Oued Noun, Morocco",
+      "highlights": [
+        "Gained early exposure to enterprise IT systems and data management workflows."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Multi-Agent Chatbot for Industry Applications",
+      "summary": "Designed a real-time chatbot capable of interacting with industrial equipment using multi-agent systems.",
+      "technologies": ["Python", "Django", "CrewAI"]
+    },
+    {
+      "title": "YOLO-OBB Road Sign Detection System",
+      "summary": "Built a computer vision model using YOLO-OBB and multi-scale tiling to detect road signs from complex plan PDFs.",
+      "technologies": ["YOLO-OBB", "OpenCV", "Python"]
+    },
+    {
+      "title": "Hospital Data Enrichment System",
+      "summary": "Developed a multi-agent system that retrieves and compiles hospital information (leadership, revenue, staff, insurance, and contact data) from multiple sources.",
+      "technologies": ["CrewAI", "LangChain", "Scrapy", "OpenAI API"]
+    },
+    {
+      "title": "Plagiarism Detection System (Words and Semantics)",
+      "summary": "Designed a Django-based NLP system using semantic similarity and reinforcement learning for plagiarism detection.",
+      "technologies": ["RoBERTa", "RAG", "Multi-Agent", "Python"]
+    },
+    {
+      "title": "Real-Time Violence Detection in Videos",
+      "summary": "Implemented MoBiNet-based system in Django for detecting violent scenes in real-time video streams.",
+      "technologies": ["MoBiNet", "TensorFlow", "Django"]
+    },
+    {
+      "title": "Smart UI with AR and LLM Integration",
+      "summary": "Built an AR-enhanced educational UI powered by OpenAI and LangChain to generate adaptive learning questions.",
+      "technologies": ["ARCore", "LangChain", "OpenAI", "FastAPI"]
+    },
+    {
+      "title": "Stock Forecasting System for Moroccan Companies",
+      "summary": "Machine learning system for predicting Moroccan stock trends using time-series analysis.",
+      "technologies": ["Python", "Pandas", "Sklearn"]
+    },
+    {
+      "title": "Decision Support System on Palestine–Israel Conflict",
+      "summary": "Developed an AI-powered analytical dashboard for geopolitical decision-making.",
+      "technologies": ["Python", "Dash", "Plotly"]
+    },
+    {
+      "title": "Contour-Based Image Segmentation System",
+      "summary": "Segmentation system for detecting architectural structures in urban environments using optimized preprocessing techniques.",
+      "technologies": ["OpenCV", "Python"]
+    },
+    {
+      "title": "Community Detection in Graph Networks",
+      "summary": "Designed ML models for identifying and classifying communities and influential nodes in complex networks.",
+      "technologies": ["NetworkX", "Python", "Sklearn"]
+    },
+    {
+      "title": "Tech E-commerce Website and Java Dashboard",
+      "summary": "Built an e-commerce platform for tech products with integrated sales dashboards.",
+      "technologies": ["Java", "Spring Boot", "MySQL"]
+    },
+    {
+      "title": "Automated Statistical Reporting Pipeline",
+      "summary": "Created automated workflows with n8n to generate, format, and email statistical summaries.",
+      "technologies": ["n8n", "Zapier", "Airtable", "Gemini"]
+    }
+  ],
+
+  "services": [
+    {
+      "title": "Artificial Intelligence Development",
+      "description": "Design and deploy intelligent systems that learn, adapt, and optimize performance.",
+      "features": [
+        "Custom model development (LLMs, CNNs, RNNs, transformers)",
+        "Generative AI for text, image, or code generation",
+        "Reinforcement learning for autonomous systems",
+        "AI model compression and optimization for deployment",
+        "Real-time inference and monitoring pipelines"
+      ]
+    },
+    {
+      "title": "Machine Learning & Predictive Modeling",
+      "description": "Turn complex datasets into predictive systems and data-driven insights.",
+      "features": [
+        "Supervised and unsupervised learning models",
+        "Time-series forecasting for financial or industrial data",
+        "Feature selection and model tuning",
+        "Evaluation and explainability (SHAP, LIME)",
+        "ML model deployment and MLOps setup"
+      ]
+    },
+    {
+      "title": "Data Analysis & Business Intelligence",
+      "description": "Analyze, visualize, and interpret data to support smarter decision-making.",
+      "features": [
+        "Exploratory data analysis and hypothesis testing",
+        "Interactive dashboards (Power BI, Streamlit, Dash)",
+        "Statistical modeling and trend analysis",
+        "Report automation with n8n or Python",
+        "KPI tracking and performance evaluation",
+        "Market and demographic analysis for business insights"
+      ]
+    },
+    {
+      "title": "Multi-Agent & Intelligent Automation Systems",
+      "description": "Develop autonomous multi-agent systems for advanced automation and orchestration.",
+      "features": [
+        "Integration with CrewAI, LangChain, Zapier, and n8n",
+        "Smart workflow design for enterprise systems"
+      ]
+    },
+    {
+      "title": "Computer Vision & Image Processing",
+      "description": "Deliver AI-powered solutions that see, interpret, and act on visual information.",
+      "features": [
+        "Object detection and segmentation (YOLO-OBB, contour-based techniques)",
+        "Video analysis for safety or surveillance (e.g., violence detection)",
+        "Image classification, enhancement, and color correction",
+        "Satellite and architectural image analysis"
+      ]
+    },
+    {
+      "title": "Natural Language Processing (NLP)",
+      "description": "Enable machines to understand and process human language.",
+      "features": [
+        "Plagiarism detection and semantic similarity analysis",
+        "Question generation and summarization using LLMs",
+        "Named entity recognition and topic extraction",
+        "Sentiment analysis and intent classification",
+        "Arabic and multilingual NLP fine-tuning"
+      ]
+    },
+    {
+      "title": "Data Engineering & Big Data Systems",
+      "description": "Build scalable pipelines to process and store large-scale datasets.",
+      "features": [
+        "ETL/ELT pipelines using Spark, Hadoop, and n8n",
+        "Data warehouse and API integration",
+        "Data transformation and governance automation",
+        "Real-time analytics using Airflow, Pandas, and Kafka",
+        "Integration with cloud platforms like Azure and AWS"
+      ]
+    },
+    {
+      "title": "Web & Software Development",
+      "description": "Create modern, data-driven web platforms and dashboards.",
+      "features": [
+        "Full-stack applications (Django, React, Java)",
+        "RESTful APIs and microservices",
+        "E-commerce and mobility systems (carpooling platform)",
+        "Visualization dashboards and IoT interfaces",
+        "AR-powered smart UI systems for learning environments"
+      ]
+    },
+    {
+      "title": "Consulting, Research & Technical Mentoring",
+      "description": "Offer expert guidance for organizations and researchers adopting AI and data science.",
+      "features": [
+        "AI project strategy and roadmap development",
+        "Feasibility studies and audits for AI adoption",
+        "Research collaboration in ML, NLP, or computer vision",
+        "Technical workshops and mentoring for students and professionals"
+      ]
+    }
+  ],
+
+  "skills": {
+    "ai_and_machine_learning": [
+      "Supervised and unsupervised learning (classification, clustering, regression)",
+      "Deep learning architectures (CNNs, RNNs, Transformers)",
+      "Reinforcement learning for adaptive agents",
+      "Model optimization, fine-tuning, and evaluation (Precision, Recall, F1, AUC)",
+      "Feature engineering and dimensionality reduction (PCA, LDA, t-SNE)"
+    ],
+    "natural_language_processing": [
+      "Text preprocessing, tokenization, and embedding generation",
+      "Semantic similarity and plagiarism detection using RoBERTa, BERT, and RAG",
+      "Question answering, summarization, and text generation using LLMs",
+      "Sentiment and intent analysis for multilingual datasets",
+      "Named Entity Recognition (NER) and keyword extraction"
+    ],
+    "computer_vision": [
+      "Image segmentation and object detection using YOLO, OpenCV, MoBiNet",
+      "Contour-based and region-based feature extraction",
+      "Image preprocessing and enhancement for ML models",
+      "Satellite image analysis and real-time video detection"
+    ],
+    "data_science_and_analytics": [
+      "Exploratory Data Analysis (EDA), statistical modeling, and hypothesis testing",
+      "Predictive modeling and trend forecasting (e.g., stock prediction)",
+      "KPI design, business intelligence dashboards, and performance analytics",
+      "Data visualization with Matplotlib, Seaborn, Plotly, Dash, and Power BI",
+      "Statistical computing using NumPy, Pandas, SciPy, and Scikit-learn"
+    ],
+    "data_engineering_and_automation": [
+      "ETL/ELT pipeline design with n8n, Zapier, Spark, and Hadoop",
+      "Data transformation, cleaning, and governance workflows",
+      "Integration with Airtable, Gemini, and APIs for real-time updates",
+      "Automated reporting and document generation systems"
+    ],
+    "multi_agent_systems": [
+      "Design and orchestration of multi-agent systems (CrewAI, LangChain)",
+      "Intelligent agents for data enrichment, automation, and orchestration",
+      "Agent communication, memory, and goal-driven coordination"
+    ],
+    "software_and_web_engineering": [
+      "Full-stack development (Django, React, Java, PHP)",
+      "RESTful API design for ML model deployment",
+      "Database architecture (MySQL, PostgreSQL, MongoDB, NoSQL)",
+      "Scalable backend and data dashboard integration"
+    ],
+    "tools_and_frameworks": [
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "Transformers",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Plotly",
+      "Power BI",
+      "CrewAI",
+      "LangChain",
+      "n8n",
+      "Zapier",
+      "Spark",
+      "Hadoop",
+      "Azure",
+      "Git",
+      "Docker",
+      "FastAPI"
+    ],
+    "soft_skills": [
+      "Analytical thinking and problem-solving",
+      "Research-oriented and innovation-driven mindset",
+      "Autonomy, creativity, and adaptability",
+      "Clear technical documentation and communication",
+      "Cross-functional collaboration"
+    ]
+  },
+
+  "certifications": [
+    {
+      "name": "Machine Learning Specialization Certificate",
+      "issuer": "Coursera",
+      "year": 2024
+    },
+    {
+      "name": "Google Data Analytics Certificate",
+      "issuer": "Coursera",
+      "year": 2022
+    },
+    {
+      "name": "CrewAI Certification – Multi-Agent Systems",
+      "issuer": "CrewAI",
+      "year": 2025
+    }
+  ],
+  "languages": [
+    { "language": "Arabic", "proficiency": "Native" },
+    { "language": "English", "proficiency": "C1 (Rosetta Stone Exam)" },
+    { "language": "French", "proficiency": "B2 (Rosetta Stone Exam)" }
+  ],
+  "tools": ["CrewAI", "Zapier", "n8n", "Airtable", "LangChain", "OpenAI", "Gemini"],
+  "site_sections": [
+    { "slug": "home-intro", "title": "About Me", "bind": "profile.summary" },
+    { "slug": "education", "title": "Education", "bind": "education" },
+    { "slug": "experience", "title": "Experience", "bind": "experience" },
+    { "slug": "projects", "title": "Projects", "bind": "projects" },
+    { "slug": "skills", "title": "Skills", "bind": "skills" },
+    { "slug": "certifications", "title": "Certifications", "bind": "certifications" },
+    { "slug": "contact", "title": "Contact", "bind": ["profile.email", "profile.phone", "profile.location"] }
+  ]
+}
